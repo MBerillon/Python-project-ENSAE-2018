@@ -1,2 +1,3 @@
-# Python-project-ENSAE-2018
-Project for the ENSAE Python course (fall 2018)
+# Les incendies en Corse depuis 1976, éléments déclencheurs et facteurs aggravants
+
+Projet
